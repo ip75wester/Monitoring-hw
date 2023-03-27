@@ -37,7 +37,7 @@
 Прикрепите в файл README.md скриншот авторизации в админке
 Приложите в файл README.md текст использованных команд в GitHub
 
-![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/1.PNG)
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/1-1.PNG)
 ---
 
 Текст использованных команд:
