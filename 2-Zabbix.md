@@ -75,16 +75,22 @@ sudo systemctl enable zabbix-server apache2 # zabbix-agent
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
 Требования к результаты
+
 Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
 ![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/2.PNG)
 
 
 Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
+
 ![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/3.PNG)
+
+
 ![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/4.PNG)
 
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 ![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/5.PNG)
+
+
 ![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/6.PNG)
 
 Приложите в файл README.md текст использованных команд в GitHub
