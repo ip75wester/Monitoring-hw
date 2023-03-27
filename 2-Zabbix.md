@@ -73,8 +73,34 @@ sudo systemctl enable zabbix-server apache2 # zabbix-agent
 Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов
 Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
+
 Требования к результаты
 Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/2.PNG)
+
+
 Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/3.PNG)
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/4.PNG)
+
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/5.PNG)
+![Скриншот](https://github.com/ip75wester/Monitoring-hw/blob/main/6.PNG)
+
 Приложите в файл README.md текст использованных команд в GitHub
+
+# Добавьте репозиторий Zabbix
+wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bdebian11_all.deb
+dpkg -i zabbix-release_6.0-4+debian11_all.deb
+apt update 
+# Установите Zabbix Server и компоненты
+sudo apt install zabbix-agent -y
+# Запустите Zabbix Agent
+sudo systemctl restart zabbix-agent
+sudo systemctl enable zabbix-agent
+#Посмотрите лог агента
+cat /var/log/zabbix/zabbix_agentd.log
+#Настройка агента
+sudo nano /etc/zabbix/zabbix_agentd.conf
+#Перезапуск агента
+sudo systemctl restart zabbix-agent
