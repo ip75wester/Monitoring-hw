@@ -18,7 +18,7 @@
 Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
 
-![Задание 1](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 1](https://github.com/ip75wester/Monitoring-hw/blob/main/z1.PNG)
 ---
 
 ### Задание 2
@@ -37,7 +37,7 @@
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
 
-![Задание 2](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 2](https://github.com/ip75wester/Monitoring-hw/blob/main/z2.PNG)
 ---
 
 
@@ -56,11 +56,11 @@
 
  Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
  
-![Задание 3](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 3](https://github.com/ip75wester/Monitoring-hw/blob/main/z3.1.PNG)
  
  Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
  
-![Задание 3](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 3](https://github.com/ip75wester/Monitoring-hw/blob/main/z3.2.PNG)
 
 
 ---
@@ -75,7 +75,7 @@
 
 Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
-![Задание 4](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 4](https://github.com/ip75wester/Monitoring-hw/blob/main/z4.PNG)
 
 ### Задание 5*
 
@@ -85,7 +85,7 @@
 
 Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
 
-![Задание 5](https://github.com/ip75wester/Monitoring-hw/blob/main/7.PNG)
+![Задание 5](https://github.com/ip75wester/Monitoring-hw/blob/main/z5.PNG)
 
 
 
