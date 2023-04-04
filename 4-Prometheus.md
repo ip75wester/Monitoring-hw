@@ -75,7 +75,7 @@
 
 Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
-![Задание 4](https://github.com/ip75wester/Monitoring-hw/blob/main/z4.PNG)
+![Задание 4](https://github.com/ip75wester/Monitoring-hw/blob/main/z4.png)
 
 ### Задание 5*
 
