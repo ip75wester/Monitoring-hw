@@ -56,7 +56,7 @@
 
 Приложите скриншот, на котором будет дашборд Grafana с действующей метрикой.
 
-![Задание 4.1](https://github.com/ip75wester/Monitoring-hw/blob/main/za6.png)
+![Задание 4.1](https://github.com/ip75wester/Monitoring-hw/blob/main/za6.PNG)
 
-![Задание 4.2](https://github.com/ip75wester/Monitoring-hw/blob/main/za7.png)
+![Задание 4.2](https://github.com/ip75wester/Monitoring-hw/blob/main/za7.PNG)
 
