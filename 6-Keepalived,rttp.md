@@ -44,14 +44,18 @@ virtual_ipaddress {
 В качестве решения предоставьте:
 - рабочую конфигурацию обеих нод, оформленную как блок кода в вашем md-файле;
 
+1 Нода
 ![1 Нода](https://github.com/ip75wester/Monitoring-hw/blob/main/zad1.PNG)
 
+2 Нода
 ![2 Нода](https://github.com/ip75wester/Monitoring-hw/blob/main/zad2.PNG)
 
 - скриншоты статуса сервисов, на которых видно, что одна нода перешла в MASTER, а вторая в BACKUP state.
 
+1 Нода
 ![1 Нода](https://github.com/ip75wester/Monitoring-hw/blob/main/zad3.PNG)
 
+2 Нода
 ![2 Нода](https://github.com/ip75wester/Monitoring-hw/blob/main/zad4.PNG)
 
 
