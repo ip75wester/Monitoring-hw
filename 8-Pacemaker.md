@@ -64,19 +64,23 @@ Corosync — это программный продукт, позволяющи�
 
 ### Ответ
 
-# Первая нода:
+### Первая нода:
  
 ![Задание 3.1](https://github.com/ip75wester/Monitoring-hw/blob/main/zada1.PNG)
  
 
+
 ![Задание 3.2](https://github.com/ip75wester/Monitoring-hw/blob/main/zada2.PNG)
+
 
 
 ![Задание 3.3](https://github.com/ip75wester/Monitoring-hw/blob/main/zada3.PNG)
 
-# Вторая нода:
+### Вторая нода:
 
 ![Задание 3.4](https://github.com/ip75wester/Monitoring-hw/blob/main/zada4.PNG)
+
+
 
 ![Задание 3.5](https://github.com/ip75wester/Monitoring-hw/blob/main/zada5.PNG)
 
@@ -92,20 +96,26 @@ Corosync — это программный продукт, позволяющи�
 
 ### Ответ
 
-# Первая нода:
+### Первая нода:
 
 ![Задание 4.1](https://github.com/ip75wester/Monitoring-hw/blob/main/zada6.PNG)
+
 
 
 ![Задание 4.2](https://github.com/ip75wester/Monitoring-hw/blob/main/zada7.PNG)
 
 
+
 ![Задание 4.3](https://github.com/ip75wester/Monitoring-hw/blob/main/zada8.PNG)
 
-# Вторая нода:
+### Вторая нода:
 
 ![Задание 4.4](https://github.com/ip75wester/Monitoring-hw/blob/main/zada9.PNG)
 
+
+
 ![Задание 4.5](https://github.com/ip75wester/Monitoring-hw/blob/main/zada10.PNG)
+
+
 
 ![Задание 4.6](https://github.com/ip75wester/Monitoring-hw/blob/main/zada11.PNG)
